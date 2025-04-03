@@ -1,4 +1,4 @@
-# GDP Analysis
+# GDP Analysis Web Scraping
 
 This repository contains a Python script designed to extract and analyze GDP data from Wikipedia. The script fetches GDP data for various countries, cleans and processes it, performs basic analysis, and visualizes the results.
 
