@@ -23,10 +23,6 @@ To run this project, you'll need Python 3.6 or higher and the following librarie
 - **pandas** – for data manipulation and analysis
 - **matplotlib** – for visualizing the data
 
-Install the required libraries using:
-
-```bash
-pip install requests beautifulsoup4 pandas matplotlib
 ## 📁 Output
 
 The script produces the following outputs:
@@ -47,6 +43,8 @@ After running the script, you'll see:
 ## ⚠️ Disclaimer
 
 This project is intended for educational purposes. The data is sourced from Wikipedia and may not be fully accurate or up-to-date. Use the data with caution for any critical analysis.
+
+
 
 
 
