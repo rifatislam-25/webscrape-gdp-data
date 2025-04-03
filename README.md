@@ -27,3 +27,26 @@ Install the required libraries using:
 
 ```bash
 pip install requests beautifulsoup4 pandas matplotlib
+## 📁 Output
+
+The script produces the following outputs:
+
+- **CSV File (gdp_data.csv):** Contains the extracted and cleaned GDP data.
+- **Summary Statistics:** Displays the basic statistical summary of the GDP estimates.
+- **Top 10 Countries by GDP:** Lists the top 10 countries based on the IMF GDP estimate.
+- **Visualization:** A bar chart comparing the GDP of the top 10 countries.
+
+## 📝 Example Output
+
+After running the script, you'll see:
+
+- A printed summary of the GDP data.
+- A **CSV file (gdp_data.csv)** saved in the project directory.
+- A bar chart displayed showing the GDP of the top 10 countries.
+
+## ⚠️ Disclaimer
+
+This project is intended for educational purposes. The data is sourced from Wikipedia and may not be fully accurate or up-to-date. Use the data with caution for any critical analysis.
+
+
+
